@@ -1,3 +1,9 @@
+A:
+A
+B
+B
+B	
+
 my name is maaz.:wq
 :wq
 
