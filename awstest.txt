@@ -1,9 +1,16 @@
+D
+D
+B
+B
+B
+B	
+B
 A:
 A
 B
 B
 B	
 
-my name is maaz.:wq
+mky name is maaz.:wq
 :wq
 
